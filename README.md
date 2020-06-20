@@ -1,2 +1,2 @@
 # Clasificaci-n-Anselmo-Pineda
-Este repositorio contiene el modelo de clasificación de colaboradores documentales en el epistolario del coronel Anselmo Pineda. El modelo usa variables numéricas y procesamiento de texto para determinar es o no un colaborador del proyecto coleccionista para la biblioteca de Obras Nacionales del coronel
+Este repositorio contiene el modelo de clasificación de colaboradores documentales, la generación de redes sociales y la elaboración de un mapa a partir de los datos espaciales en el epistolario del coronel Anselmo Pineda. El modelo usa variables numéricas y procesamiento de texto para determinar si cada nodo o corresponsal es o no un colaborador del proyecto coleccionista para la biblioteca de Obras Nacionales del coronel Pineda
